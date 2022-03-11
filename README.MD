@@ -1,3 +1,6 @@
+This is a fork of https://github.com/ivands/lit-svg-loader by https://github.com/ivands
+Only changes I made was to migrate it to lit2 syntax.
+
 # Usage
 
 ```

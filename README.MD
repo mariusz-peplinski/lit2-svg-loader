@@ -16,7 +16,8 @@ module: {
 ```
 
 ```js
-import { LitElement, html, customElement } from 'lit-element'
+import { LitElement, html } from 'lit';
+import { customElement } from 'lit/decorators.js';
 
 import icon from './icon.svg'
 

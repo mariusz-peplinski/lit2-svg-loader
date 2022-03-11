@@ -1,26 +1,24 @@
 {
-	"name": "lit-svg-loader",
-	"version": "0.0.3",
-	"description": "Load svg files as svg tagged template literals",
+	"name": "lit2-svg-loader",
+	"version": "1.0.0",
+	"description": "Load svg files as svg tagged template literals, for lit2",
 	"main": "index.js",
 	"scripts": {
 	  "test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
 	  "type": "git",
-	  "url": "git+https://github.com/ivands/lit-svg-loader.git"
+	  "url": "git+https://github.com/mariusz-peplinski/lit2-svg-loader.git"
 	},
 	"keywords": [
 	  "webpack",
 	  "webcomponents",
 	  "svg",
+	  "lit2",
+	  "lit",
 	  "lit-html",
 	  "lit-element"
 	],
-	"author": "Ivan da Silveira",
+	"author": "Ivan da Silveira, Mariusz Peplinski",
 	"license": "ISC",
-	"bugs": {
-	  "url": "https://github.com/ivands/lit-svg-loader/issues"
-	},
-	"homepage": "https://github.com/ivands/lit-svg-loader#readme"
   }

@@ -1,7 +1,7 @@
 # Usage
 
 ```
-npm i -D lit-svg-loader
+npm i -D lit2-svg-loader
 ```
 
 ```js
@@ -9,7 +9,7 @@ module: {
   rules: [
     {
       test: /\.svg$/,
-      loader: 'lit-svg-loader'
+      loader: 'lit2-svg-loader'
     }
   ]
 }

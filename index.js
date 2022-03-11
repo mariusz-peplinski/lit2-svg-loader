@@ -19,7 +19,7 @@ module.exports = function loader(source) {
 	});
 
 	return `
-		import { svg } from 'lit-element';
+		import { svg } from 'lit';
 		export default svg\`${ source }\`;
 	`;
 }
